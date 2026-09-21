@@ -1,0 +1,10 @@
+{
+  "description": "Manage your finances effortlessly by tracking income and expenses, organizing funds into wallets, and accessing detailed financial history.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
